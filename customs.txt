@@ -1,0 +1,6 @@
+custom_points.txt
+10
+2
+5
+0.1
+0.2

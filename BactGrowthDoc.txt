@@ -1,0 +1,5 @@
+bacterial_growth.txt
+1
+3
+0.05
+2
